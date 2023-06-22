@@ -23,14 +23,6 @@
 
 <br>
 
-### Notion
-🔗*각 버튼을 클릭하면 바로 이동할수 있어요!*
-
-[`⭐프로젝트⭐`](https://www.notion.so/sieun96/cdb7440051ed479cb0cd1beb83713f7c?pvs=4#907d7ec22ae346768d3e7b1d285e3ada "`⭐프로젝트⭐`") [`📁개인 공부내용`](https://www.notion.so/sieun96/cdb7440051ed479cb0cd1beb83713f7c?pvs=4#fe664c89f87344c085344bc4dc70947a "`⭐개인 공부내용⭐`")  [`💯스터디`](https://www.notion.so/sieun96/cdb7440051ed479cb0cd1beb83713f7c?pvs=4#45b3d040ed0844e985d3703f344a435c "`💯스터디`")
-
-
-<br>
-
 
 # Skill
 <br>
