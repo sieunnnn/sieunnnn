@@ -45,6 +45,7 @@
 <br>
 <br>
 <br>
+<br>
 
 # 𝙋𝙍𝙊𝙅𝙀𝘾𝙏
 ✅ 현재 진행중인 / 완료한 프로젝트 입니다. <br>
@@ -59,6 +60,7 @@
 |<a href="https://github.com/travel-planner-project/TravelPlanner"> 여행 플래너 프로젝트 </a>| 🔛 2차 배포를 위해 달리는 중 🏃‍♀️ | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
 |<a href="https://github.com/My-duckzil-diary"> 나의 덕질 일기 프로젝트 </a>| 🔛 1차 배포를 위해 달리는 중 🏃‍♀️ | 취미를 기록하고, 나와 같은 취미를 가진 사람들을 <br> 찾을 수 있는 웹 어플리케이션 입니다. |
 
+<br>
 <br>
 <br>
 <br>
