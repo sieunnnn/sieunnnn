@@ -46,22 +46,6 @@
 <br>
 <br>
 
-# 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
-<img src="https://img.shields.io/badge/Java-0B2C4A?style=flat&logo=java&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/jsonwebtokens-black?style=flat&logo=jsonwebtokens&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon CodeDeploy-1765F6?style=flat&logo=amazonaws&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/Apache Tomcat-F39914?style=flat&logo=apachetomcat&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/WebSocket Stomp-black?style=flat&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Postman-FF6C37? style=flat&logo=postman&logoColor=white" height="25px"/> <br>
-<img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/>
-
-<br>
-<br>
-<br>
-
 # 𝙋𝙍𝙊𝙅𝙀𝘾𝙏
 ✅ 현재 진행중인 / 완료한 프로젝트 입니다. <br>
 ✅ 각 레포마다 리드미를 최대한 꼼꼼히 작성하였으니 많은 관심 부탁드립니다! 🙇‍♀️ <br>
@@ -79,5 +63,22 @@
 <br>
 <br>
 
+# 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
+<img src="https://img.shields.io/badge/Java-0B2C4A?style=flat&logo=java&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/jsonwebtokens-black?style=flat&logo=jsonwebtokens&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon CodeDeploy-1765F6?style=flat&logo=amazonaws&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Amazon Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/Apache Tomcat-F39914?style=flat&logo=apachetomcat&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/WebSocket Stomp-black?style=flat&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Postman-FF6C37? style=flat&logo=postman&logoColor=white" height="25px"/> <br>
+<img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
