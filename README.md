@@ -10,11 +10,12 @@
   <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/4d6e46cb-4359-43d9-bd71-0c0cf30e1b95" width="300px"/>
 </p>
 
-<h4 align="center">
+<h3 align="center">
  🌱 하루하루 성장하는 개발자 김시은 입니다.
-</h4>
+</h3>
 <div align="center">
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
+ <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=mailto:sieunnnn1120@naver.com" height="20px"/>
  <a href="https://sieun96.notion.site/25d98a14fdf8484faf1a159af2ce2916?pvs=4"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
  
  
@@ -30,6 +31,7 @@
 <div align="left">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sini_96" height="25px"/>
   <img src="https://wakatime.com/badge/user/64576960-570f-498b-ad69-685267d5d7ed.svg" height="25px"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="25px"/>
 </div>
 
 <br>
