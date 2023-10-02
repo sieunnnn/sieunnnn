@@ -36,7 +36,7 @@
 </div>
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=sieunnnn&theme=gitdimmed&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sieunnnn&theme=flat&margin-w=10&column=7"/>
 
 <details>
 <summary> <h3> ⏱️ WakaTime </h3> </summary>
