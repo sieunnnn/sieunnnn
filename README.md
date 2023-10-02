@@ -17,6 +17,7 @@
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
  <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=mailto:sieunnnn1120@naver.com" height="20px"/>
  <a href="https://sieun96.notion.site/25d98a14fdf8484faf1a159af2ce2916?pvs=4"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
+ <a href="https://www.rocketpunch.com/@wldsmtldsm65/jobhunt"><img src="https://img.shields.io/badge/RocketPunch-186BFF?style=plastic&logoColor=white" height="20px"/></a>
  
  
 </div>
