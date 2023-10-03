@@ -61,7 +61,6 @@
 |:-----:|:-----:|:-----:|
 |<a href="https://github.com/sieunnnn/MultiCampusProject"> 여행 플래너 프로젝트 </a>| 🔚 완료 💫 | 실시간으로 친구들과 여행 계획을 세우고, <br> 여행을 기록할 수 있는 웹 어플리케이션 입니다. |
 |<a href="https://github.com/travel-planner-project/TravelPlanner"> 여행 플래너 프로젝트 </a>| 🔛 `FE` 2차 배포를 위해 달리는 중 🏃‍♀️<br>🔛 `BE` 3차 배포를 위해 달리는 중 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
-|<a href="https://github.com/My-duckzil-diary"> 나의 덕질 일기 프로젝트 </a>| 🔛 1차 배포를 위해 달리는 중 🏃‍♀️ | 취미를 기록하고, 나와 같은 취미를 가진 사람들을 <br> 찾을 수 있는 웹 어플리케이션 입니다. <br> 취미 생활에 얼마나 많은 지출을 했는지도 알 수 있어요! 💸|
 
 <br>
 <br>
