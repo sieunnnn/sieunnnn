@@ -60,7 +60,7 @@
 | 📁 프로젝트 Repository | 🔛 status | 설명 |
 |:-----:|:-----:|:-----:|
 |<a href="https://github.com/sieunnnn/MultiCampusProject"> 여행 플래너 프로젝트 </a>| 🔚 완료 💫 | 실시간으로 친구들과 여행 계획을 세우고, <br> 여행을 기록할 수 있는 웹 어플리케이션 입니다. |
-|<a href="https://github.com/travel-planner-project/TravelPlanner/wiki/𝖶𝗁𝖺𝗍-𝖨𝗌-𝙏𝙧𝙖𝙫𝙚𝙡-𝙋𝙡𝙖𝙣𝙣𝙚𝙧-%3F"> 여행 플래너 프로젝트 </a>| 🔛 `FE` 2차 배포를 위해 달리는 중 🏃‍♀️<br>🔛 `BE` 3차 배포를 위해 달리는 중 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
+|<a href="https://github.com/travel-planner-project"> 여행 플래너 프로젝트 </a>| 🔛 `FE` 2차 배포를 위해 달리는 중 🏃‍♀️<br>🔛 `BE` 3차 배포를 위해 달리는 중 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
 <a href="https://github.com/travel-planner-project/Travel-planner-client"> 여행 플래너 화면 만들기 </a>|<a href="https://github.com/users/sieunnnn/projects/3"> 🔗 깃허브 프로젝트 바로가기 </a> | 여행 플래너 프로젝트를 이용하여 vue.js 를 연습중입니다. 👩‍💻 |
 
 <br>
