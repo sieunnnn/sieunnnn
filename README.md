@@ -66,9 +66,9 @@
 <br>
 
 # 𝙎𝙏𝘼𝘾𝙆 & 𝙏𝙊𝙊𝙇
-## ⚙️ Backend
+## ⚙️ Back
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Java-0B2C4A?style=flat&logo=java&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Json WebTokens-black?style=flat&logo=jsonwebtokens&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/WebSocket Stomp-black?style=flat&logoColor=white" height="25px"/> <br>
-## 🖥️ FrontEnd
+## 🖥️ Front
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <br>
 ## ☁️ Deploy & Cloud
 <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/AWS Service-232F3E?style=flat&logo=amazonaws&logoColor=white" height="25px"/><br>
