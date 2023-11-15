@@ -4,19 +4,6 @@
  🌱 하루하루 성장하는 개발자 김시은 입니다.
 </h1>
 
-<br>
-
-<p align="center">
- <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="300"/>
-</p>
-
-<div align="center">
- <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
- <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=mailto:sieunnnn1120@naver.com" height="20px"/>
- <a href="https://sieun96.notion.site/25d98a14fdf8484faf1a159af2ce2916?pvs=4"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
- <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
- 
-</div>
 
 <br>
 <br>
@@ -56,9 +43,9 @@
 
 | 📁 프로젝트 Repository | 🔛 status | 설명 |
 |:-----:|:-----:|:-----:|
-|<a href="https://github.com/sieunnnn/MultiCampusProject"> 여행 플래너 프로젝트 </a>| 🔚 완료 💫 | 실시간으로 친구들과 여행 계획을 세우고, <br> 여행을 기록할 수 있는 웹 어플리케이션 입니다. |
-|<a href="https://github.com/travel-planner-project"> 여행 플래너 프로젝트 </a>| 🔛 `FE` 2차 배포를 위해 달리는 중 🏃‍♀️<br>🔛 `BE` 3차 배포를 위해 달리는 중 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
-<a href="https://github.com/sieunnnn/Travel-planner-client"> 여행 플래너 화면 만들기 </a>|<a href="https://github.com/users/sieunnnn/projects/3"> 🔗 깃허브 프로젝트 바로가기 </a> | 여행 플래너 프로젝트를 이용하여 vue.js 를 연습중입니다. 👩‍💻 |
+|<a href="https://github.com/sieunnnn/MultiCampusProject"> 여행 플래너 프로젝트 </a>| 🔚 완료 💫 | 국비 과정 중 진행한 프로젝트 입니다. |
+|<a href="https://github.com/travel-planner-project"> 여행 플래너 프로젝트 </a>| 🔛 v1 을 마치고 v2 를 위해 달리는 중 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
+|<a href="https://github.com/wanted-backend-internship"> 원티드 프리온보딩 백엔드 인턴십 프로젝트 </a>|🔛 첫번째 기업과제를 위해 달리는 중 | 프리온보딩 과정 중 진행한 프로젝트 입니다.|
 
 <br>
 <br>
