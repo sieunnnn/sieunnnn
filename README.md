@@ -4,6 +4,19 @@
  🌱 하루하루 성장하는 개발자 김시은 입니다.
 </h1>
 
+<br>
+
+<p align="center">
+ <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="250"/>
+</p>
+
+<div align="center">
+ <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
+ <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=mailto:sieunnnn1120@naver.com" height="20px"/>
+ <a href="https://sieun96.notion.site/25d98a14fdf8484faf1a159af2ce2916?pvs=4"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
+ <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
+ 
+</div>
 
 <br>
 <br>
