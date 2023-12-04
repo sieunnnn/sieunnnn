@@ -78,7 +78,7 @@
 <br>
 
 # 📌 𝙋𝙄𝙉𝙉𝙀𝘿
-<img src="https://img.shields.io/badge/Spring Rest Docs-6DB33F?style=flat&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/><br>
+<img src="https://img.shields.io/badge/Spring Rest Docs-6DB33F?style=flat&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25px"><br>
 <br>
 <br>
 <br>
