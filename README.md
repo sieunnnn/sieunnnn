@@ -12,7 +12,7 @@
 
 <div align="center">
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
- <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white&link=mailto:sieunnnn1120@naver.com" height="20px"/>
+ <img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="20px"/>
  <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
  
