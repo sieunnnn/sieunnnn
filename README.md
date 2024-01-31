@@ -57,9 +57,9 @@
 | 📁 프로젝트 Repository | 🔛 status | 설명 |
 |:-----:|-----|:-----:|
 |<a href="https://github.com/sieunnnn/MultiCampusProject"> 여행 플래너 프로젝트 </a>| 🔚 완료 💫 | 국비 과정 중 진행한 프로젝트 입니다. |
-|<a href="https://github.com/travel-planner-project"> 여행 플래너 프로젝트 </a>| 🔛 `v1` 개발 완료 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
-|<a href="https://github.com/wanted-backend-internship"> 원티드 프리온보딩 <br> 백엔드 인턴십 프로젝트 </a>|🔚 첫번째 기업과제 `v1` 개발 완료 <br> 🔚 두번째 기업과제 `v2` 업데이트 <br> 🔚 세번째 기업과제 `v2` 업데이트 | 프리온보딩 과정 중 진행한 프로젝트 입니다.|
-|<a href="https://github.com/Starbucks-2107"> 별다방 주문 어플 클론 코딩 </a>| 🔛 `v1`을 위해 달리는 중 | 스타벅스 주문 애플리케이션을 클론 코딩하는 프로젝트 입니다. |
+|<a href="https://github.com/travel-planner-project"> 여행 플래너 프로젝트 </a>| 🔛 `v1` 개발 完 🏃‍♂️  | 위의 프로젝트를 고도화 한 프로젝트 입니다. |
+|<a href="https://github.com/wanted-backend-internship"> 원티드 프리온보딩 <br> 백엔드 인턴십 프로젝트 </a>|🔚 첫번째 기업과제 `v1` 개발 完 <br> 🔚 두번째 기업과제 `v2` 업데이트 <br> 🔚 세번째 기업과제 `v2` 업데이트 | 프리온보딩 과정 중 진행한 프로젝트 입니다.|
+|<a href="https://github.com/Starbucks-2107"> 별다방 주문 어플 <br> 클론 코딩 </a>| 🔛 `v1`을 위해 달리는 중 | 스타벅스 주문 애플리케이션을 클론 코딩하는 프로젝트 입니다. |
 
 <br>
 <br>
