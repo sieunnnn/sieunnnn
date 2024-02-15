@@ -75,14 +75,14 @@
 ## 🖥️ Front
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <br>
 ## ☁️ Deploy & Cloud
-<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/AWS Service-232F3E?style=flat&logo=amazonaws&logoColor=white" height="25px"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/AWS Service-232F3E?style=flat&logo=amazonaws&logoColor=white" height="25px"/><br>
 ## 🛠️ Tool
 <img src="https://img.shields.io/badge/Jupyter-F37626? style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Postman-FF6C37? style=flat&logo=postman&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/>
 <br>
 <br>
 
 # 📌 𝙋𝙄𝙉𝙉𝙀𝘿
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25px"><br>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25px"><br>
 <br>
 <br>
 <br>
