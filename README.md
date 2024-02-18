@@ -11,10 +11,10 @@
 </p>
 
 <div align="center">
+ <a href="https://velog.io/@sieunnnn/posts"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white" height="20px"/></a>
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
- <a href="https://www.linkedin.com/in/sieun-kim-233542294/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="20px"/></a>
- <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
+ <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
  
 </div>
 
