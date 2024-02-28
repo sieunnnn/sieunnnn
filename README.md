@@ -26,6 +26,7 @@
 <br>
 
 
+
 # 𝘽𝘼𝘿𝙂𝙀
 <div align="left">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sini_96" height="25px"/>
