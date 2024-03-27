@@ -7,6 +7,7 @@
 <br>
 
 <p align="center">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="25px"/> <br>
  <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="200"/>
 </p>
 
@@ -14,8 +15,7 @@
  <a href="https://velog.io/@sieunnnn/posts"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white" height="20px"/></a>
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
- <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a>
- 
+ <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a> <br>
 </div>
 
 
@@ -29,16 +29,19 @@
 
 # 𝘽𝘼𝘿𝙂𝙀
 <div align="left">
-  <img src="https://wakatime.com/badge/user/64576960-570f-498b-ad69-685267d5d7ed.svg" height="25px"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="25px"/> <br>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=sini_96" height=170px"/> <img src="https://banner.codetree.ai/v1/banner/wldsmtldsm65" height="170px"/>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sini_96" height="25px"/> <br>
+<!--   <img src="https://wakatime.com/badge/user/64576960-570f-498b-ad69-685267d5d7ed.svg" height="25px"/> -->
+  <img src="https://banner.codetree.ai/v1/banner/wldsmtldsm65"/>
 </div>
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=sieunnnn&theme=flat&margin-w=10&column=6"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=sieunnnn&theme=flat&margin-w=10&column=6"/>
+ -->
+ 
+<img src="https://wakatime.com/badge/user/64576960-570f-498b-ad69-685267d5d7ed.svg" height="25px"/>
 
 <details>
-<summary> <h3> ⏱️ WakaTime </h3> </summary>
+<summary> ⏱️ WakaTime Detail</summary>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sieunnnn"/>
 </div>
@@ -77,14 +80,14 @@
 ## 🖥️ Front
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" height="25px"/> <br>
 ## ☁️ Deploy & Cloud
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/AWS Service-232F3E?style=flat&logo=amazonaws&logoColor=white" height="25px"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/AWS Service-232F3E?style=flat&logo=amazonaws&logoColor=white" height="25px"/><br>
 ## 🛠️ Tool
 <img src="https://img.shields.io/badge/Jupyter-F37626? style=flat&logo=jupyter&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Postman-FF6C37? style=flat&logo=postman&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=intellijidea&logoColor=white" height="25px"/>
 <br>
 <br>
 
 # 📌 𝙋𝙄𝙉𝙉𝙀𝘿
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25px"><br>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25px"> <br>
 <br>
 <br>
 <br>
