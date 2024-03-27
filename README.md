@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
- <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="250"/>
+ <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="200"/>
 </p>
 
 <div align="center">
@@ -29,9 +29,9 @@
 
 # 𝘽𝘼𝘿𝙂𝙀
 <div align="left">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sini_96" height="25px"/>
   <img src="https://wakatime.com/badge/user/64576960-570f-498b-ad69-685267d5d7ed.svg" height="25px"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="25px"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="25px"/> <br>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=sini_96" height=170px"/> <img src="https://banner.codetree.ai/v1/banner/wldsmtldsm65" height="170px"/>
 </div>
 
 <br>
