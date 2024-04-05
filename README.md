@@ -16,7 +16,7 @@
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
  <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a> <br>
- <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/6670b0b6-b70c-4695-b2ee-bc276212daf2" height="200px">
+<!--  <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/6670b0b6-b70c-4695-b2ee-bc276212daf2" height="200px"> -->
 </div>
 
 
