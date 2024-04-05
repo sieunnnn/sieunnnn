@@ -8,7 +8,7 @@
 
 <p align="center">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="25px"/> <br>
- <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="200"/>
+<img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="200"/>
 </p>
 
 <div align="center">
@@ -16,10 +16,10 @@
  <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a>
  <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a> <br>
+ <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/6670b0b6-b70c-4695-b2ee-bc276212daf2" height="200px">
 </div>
 
 
-<br>
 <br>
 <br>
 <br>
@@ -35,11 +35,9 @@
 </div>
 
 <br>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=sieunnnn&theme=flat&margin-w=10&column=6"/>
- -->
- 
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=sieunnnn&theme=flat&margin-w=10&column=6"/> -->
 <img src="https://wakatime.com/badge/user/64576960-570f-498b-ad69-685267d5d7ed.svg" height="25px"/>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a20d3f3f-1b0f-4b00-9bfb-5ffc48a26c2b" data-share-badge-host="https://www.credly.com"></div>
 <details>
 <summary> ⏱️ WakaTime Detail</summary>
 <div>
