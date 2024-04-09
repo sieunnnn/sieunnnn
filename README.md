@@ -1,27 +1,30 @@
 <br>
 
-<h1 align="center">
+<h2 align="left">
  🌱 하루하루 성장하는 개발자 김시은 입니다.
-</h1>
+</h2>
+직접 만든 프로젝트 하나하나에 서비스의 가치를 담으려 노력합니다. 단순히 기능을 구현하는 데 끝나는 것이 아닌 '왜?' 를 중시하며, 이러한 고찰을 먹고 자랍니다.
 
 <br>
 
+아래 노션 버튼을 클릭하면 그동안 쌓아온 역량에 대해 확인할 수 있어요! **많은 관심 부탁드립니다.** 🙇‍♀️
+
+<!--
 <p align="center">
 <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/a70125c3-f06c-436d-b90c-587c671b187a" width="200"/>
 </p>
+-->
 
-<div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="20px"/>
-<!--  <a href="https://velog.io/@sieunnnn/posts"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white" height="20px"/></a> -->
- <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="20px"/></a>
-<!--  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="20px"/></a> -->
- <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="20px"/></a> <br>
+<div align="left">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sieunnnn%2Fseondal&count_bg=%231E1E1C&title_bg=%231E1E1C&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false" height="23px"/>
+<!--  <a href="https://velog.io/@sieunnnn/posts"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white" height="23px"/></a> -->
+ <a href="mailto:wldsmtldsm65@gmail.com"><img src="https://img.shields.io/badge/Gmail-1765F6?style=plastic&logo=gmail&logoColor=white" height="23px"/></a>
+<!--  <a href="https://publish.obsidian.md/sieunnnn"><img src="https://img.shields.io/badge/obsidian-7C3AED?style=plastic&&logo=obsidian&logoColor=white" height="23px"/></a> -->
+ <a href="https://sieunnnn.oopy.io/"><img src="https://img.shields.io/badge/TechLog-black?style=plastic&logo=notion&logoColor=white" height="23px"/></a> <br>
 <!--  <img src="https://github.com/sieunnnn/sieunnnn/assets/119668620/6670b0b6-b70c-4695-b2ee-bc276212daf2" height="200px"> -->
 </div>
 
 
-<br>
-<br>
 <br>
 <br>
 
