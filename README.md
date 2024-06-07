@@ -4,8 +4,13 @@
  🌱 하루하루 성장하는 개발자 김시은 입니다.
 </h2>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/sieunnn?pet-id=1" width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/sieunnnn"
+  width="400"
+  height="200"
+/>
 </a>
+
 직접 만든 프로젝트 하나하나에 서비스의 가치를 담으려 노력합니다. <br>
 단순히 기능을 구현하는 데 끝나는 것이 아닌 '왜?' 를 중시하며, 이러한 고찰을 먹고 자랍니다.
 
