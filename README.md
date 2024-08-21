@@ -11,7 +11,7 @@
 
 <img src="https://github.com/user-attachments/assets/dfee3d59-b1ed-427e-9f64-5ceaba9655dd" width=100/>
 
-<h3> 잠깐만요! ちょっと待ってください！ 🙋‍♀️ </h3>
+<h3> 잠시만요! ちょっと待ってください！ 🙋‍♀️ </h3>
   
 👉 한국인이라면 [이곳](https://github.com/sieunnnn/sieunnnn/tree/master#%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B9%80%EC%8B%9C%EC%9D%80-%EC%9E%85%EB%8B%88%EB%8B%A4)을 클릭해주세요. <br>
 
