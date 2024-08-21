@@ -1,13 +1,28 @@
 ## 👩‍💻 김시은 キム・シウン
 
-### 잠깐만요! ちょっと待ってください！ 🙋‍♀️
+<br>
+<br>
+
+<hr>
+
+<br>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/dfee3d59-b1ed-427e-9f64-5ceaba9655dd" width=100/>
+
+<h3> 잠깐만요! ちょっと待ってください！ 🙋‍♀️ </h3>
+  
 👉 한국인이라면 [이곳](https://github.com/sieunnnn/sieunnnn/tree/master#%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B9%80%EC%8B%9C%EC%9D%80-%EC%9E%85%EB%8B%88%EB%8B%A4)을 클릭해주세요. <br>
+
 👉 日本人なら[ここ](https://github.com/sieunnnn/sieunnnn/tree/master#%E6%97%A5%E3%80%85%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E9%96%8B%E7%99%BA%E8%80%85%E3%82%AD%E3%83%A0%E3%82%B7%E3%82%A6%E3%83%B3%E3%81%A7%E3%81%99)をクリックしてください。
+</div>
 
 <br>
 
 <hr>
 
+<br>
 <br>
 
 ### 하루하루 성장하는 개발자 김시은 입니다.
@@ -42,6 +57,7 @@
 
 <hr>
 
+<br>
 <br>
 
 ### 日々成長する開発者、キム·シウンです。
@@ -93,5 +109,7 @@
 ## PINNED
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25px"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25px"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" height="25px">
 
-
-
+<br>
+<br>
+<br>
+<br>
