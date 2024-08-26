@@ -69,7 +69,7 @@
 #### [旅行計画プロジェクト1️⃣](https://github.com/sieunnnn/MultiCampusProject)
 - `👥チーム` `完了`
 - Multicampusで作ったファイナルプロジェクトです。
-#### [旅行計画プロジェクト2️⃣](https://github.com/travel-planner-project)
+#### [旅行計画プロジェクト2️⃣](https://github.com/sieunnnn/TravelPlanner)
 - `👥チーム` `完了`
 - 以前に作ったプロジェクトを他の方法で具現したプロジェクトです。
 #### 旅行計画プロジェクト3️⃣
