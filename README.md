@@ -34,7 +34,7 @@
 #### [여행 계획 프로젝트 1️⃣](https://github.com/sieunnnn/MultiCampusProject) 
 - `👥 팀` `완료` 
 - 멀티캠퍼스에서 만든 파이널 프로젝트 입니다.
-#### [여행 계획 프로젝트 2️⃣](https://github.com/travel-planner-project)
+#### [여행 계획 프로젝트 2️⃣](https://github.com/sieunnnn/TravelPlanner)
 - `👥 팀` `완료`
 - 이전에 만든 프로젝트를 다른 방식으로 구현한 프로젝트 입니다.
 #### 여행 계획 프로젝트 3️⃣
