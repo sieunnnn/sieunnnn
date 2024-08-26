@@ -41,6 +41,7 @@
 - `👤 개인` `진행중`
 - 구현해보지 못한 기능을 구현하고, vue.js 를 사용하여 프론트를 구현해보기 위한 프로젝트 입니다.
 - 하위 프로젝트로 Websoket tester🧪 를 만들었어요.
+  - WebSocket tester Repository 는 [이곳](https://github.com/sieunnnn/websocketTester) 이에요. 
 - front Repository 는 [이곳](https://github.com/sieunnnn/TripNow), backend Repository 는 [이곳](https://github.com/planner-project/sieunLab) 이에요.
 #### [Wanted pre-onboarding 과제](https://github.com/wanted-backend-internship)
 - `👤 개인` `완료`
@@ -76,6 +77,7 @@
 - `👤個人` `進行中`
 - 実装したことのない機能を実装し、vue.jsを使用してフロントを実装するためのプロジェクトです。
 - 下位プロジェクトとして「Websoket tester🧪」を作りました!
+  - WebSocket Tester の Repositoryは[ここ](https://github.com/sieunnnn/websocketTester)です。
 - フロントRepositoryは[ここ](https://github.com/sieunnnn/TripNow), バックRepositoryは[ここ](https://github.com/planner-project/sieunLab)です。
 #### [Wanted pre-onboarding 課題](https://github.com/wanted-backend-internship)
 - `👤 個人` `完了`
